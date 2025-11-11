@@ -7,6 +7,8 @@
 - **Entry Point**: `src/main.tsx`
 - **Core Page**: `src/App.tsx`
 
+![Flowstate Agent Landing Page](src/assets/screenshots/Screenshot%20(82).png)
+
 ## Key Implementation Notes
 - Hero section features auto-rotating gallery with `useEffect` interval and manual dot navigation
 - Waitlist CTA uses mock submission (`setTimeout`) and toggles success/error states without backend dependency
