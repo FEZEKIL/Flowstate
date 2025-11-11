@@ -8,6 +8,7 @@
 - **Core Page**: `src/App.tsx`
 
 ![Flowstate Agent Landing Page](src/assets/screenshots/Screenshot%20(82).png)
+(src/assets/screenshots/Screenshot%20(83).png)
 
 ## Key Implementation Notes
 - Hero section features auto-rotating gallery with `useEffect` interval and manual dot navigation
