@@ -29,6 +29,15 @@
 - Preview production build: `npm run preview`
 
 ## Future Enhancements
-- Replace mock waitlist submission with real API (connect to Youware Backend when available)
+- Replace mock waitlist submission with real API
 - Externalize static copy into dedicated data module or CMS integration for easier localization
 - Consider extracting major sections into components if additional pages are introduced
+- AI-Powered Chatbot Widget: Integrate conversational AI for FAQs, demos, and waitlist guidance
+- Personalized Content Recommendations: Use ML to adjust content based on user behavior and inputs
+- Interactive AI Demo Preview: Embed live demo with real-time code generation for user tasks
+- Smart Waitlist Prioritization: AI-driven prioritization using user data for invite sequencing
+- Voice-Enabled Interactions: Add voice search for FAQs and navigation using Web Speech API
+- Predictive Analytics Dashboard: Admin dashboard with AI predictions for growth and optimization
+- Progressive Web App (PWA) Features: Enable offline access, push notifications, and AI caching
+- A/B Testing with AI Optimization: Automated testing and optimization of CTAs and layouts
+
